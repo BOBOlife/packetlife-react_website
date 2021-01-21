@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/packetlife-react_website/static/css/main.8564a6ec.chunk.css",
+    "main.js": "/packetlife-react_website/static/js/main.46c75215.chunk.js",
+    "main.js.map": "/packetlife-react_website/static/js/main.46c75215.chunk.js.map",
+    "runtime-main.js": "/packetlife-react_website/static/js/runtime-main.b043b1a0.js",
+    "runtime-main.js.map": "/packetlife-react_website/static/js/runtime-main.b043b1a0.js.map",
+    "static/js/2.db8f6f25.chunk.js": "/packetlife-react_website/static/js/2.db8f6f25.chunk.js",
+    "static/js/2.db8f6f25.chunk.js.map": "/packetlife-react_website/static/js/2.db8f6f25.chunk.js.map",
+    "index.html": "/packetlife-react_website/index.html",
+    "precache-manifest.4871248bd77e6faef6c0cb462015ad4f.js": "/packetlife-react_website/precache-manifest.4871248bd77e6faef6c0cb462015ad4f.js",
+    "service-worker.js": "/packetlife-react_website/service-worker.js",
+    "static/css/main.8564a6ec.chunk.css.map": "/packetlife-react_website/static/css/main.8564a6ec.chunk.css.map",
+    "static/js/2.db8f6f25.chunk.js.LICENSE.txt": "/packetlife-react_website/static/js/2.db8f6f25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b043b1a0.js",
+    "static/js/2.db8f6f25.chunk.js",
+    "static/css/main.8564a6ec.chunk.css",
+    "static/js/main.46c75215.chunk.js"
+  ]
+}
